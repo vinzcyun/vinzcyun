@@ -1,8 +1,8 @@
 ## 🎉 Xin chào, 👋 Tôi là Duma !😁😁
 
-** Mục tiêu chính của tôi là đi ngủ 😴**
+** Mục tiêu chính của tôi là đi ngủ 😴
 
-- 🗺️ Tôi sống ở Việt Nam nha!**
+- 🗺️ Tôi sống ở Việt Nam nha!
 - 🌱 Tuy là tôi không biết lập trình nhưng chắc chắn tôi sẽ học😅😅**
 - 📫 Cần hỗ trợ gì liên hệ qua email này nha: **[kesyrou@gmail.com](mailto:kesyrou@gmail.com)**
 - 👩‍💻 Ngôn ngữ tôi sẽ học trong tương lai: ...
