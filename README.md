@@ -1,11 +1,11 @@
-## 🎉 Xin chao, 👋 Toi la Duma !😁😁
+## 🎉 Xin chào, 👋 Tôi là Duma !😁😁
 
-** Muc tieu chinh cua toi la di ngu 😴**
+** Mục tiêu chính của tôi là đi ngủ 😴**
 
-- 🗺️ Toi song o Viet Nam nha!**
-- 🌱 Tuy la toi khong biet lap trinh nhung toi se co gan de biet hon**
-- 📫 Can biet gi lien he qua email nay nha: **[kesyrou@gmail.com](mailto:kesyrou@gmail.com)**
-- 👩‍💻 Ngon ngu toi se hoc trong tuong lai: ...
+- 🗺️ Tôi sống ở Việt Nam nha!**
+- 🌱 Tuy là tôi không biết lập trình nhưng chắc chắn tôi sẽ học😅😅**
+- 📫 Cần hỗ trợ gì liên hệ qua email này nha: **[kesyrou@gmail.com](mailto:kesyrou@gmail.com)**
+- 👩‍💻 Ngôn ngữ tôi sẽ học trong tương lai: ...
 
 <code><img height="24" alt="android" src="https://raw.githubusercontent.com/github/explore/main/topics/android/android.png" /></code>
 <code><img height="24" alt="kotlin" src="https://raw.githubusercontent.com/github/explore/main/topics/kotlin/kotlin.png" /></code>
