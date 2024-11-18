@@ -1,4 +1,4 @@
-## 🎉 Xin chào, 👋 Tôi là Duma !😁😁
+## 🎉 Xin chào, 👋 Tôi là Wyn !😁😁
 
 - 🎯 Mục tiêu chính của tôi là đi ngủ 😴
 - 🌐 Tôi viết cái này bằng tiếng Việt không phải vì không biết tiếng Anh mà là vì tôi yêu nước😂😂
